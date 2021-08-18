@@ -1,6 +1,6 @@
 {
-  "short_name": "DotEightPlus",
-  "name": "DotEightPlus",
+  "short_name": "DotAcademy from DotEightPlus",
+  "name": "DotAcademy from DotEightPlus",
   "description": "Providing campus solutions",
   "lang": "en",
   "icons": [
@@ -11,12 +11,12 @@
     }
   ],
   "start_url": "./?v3&utm_source=web_app_manifest",
-  "background_color": "#FF0000",
-  "theme_color": "#FF0000",
-  "color": "#ffffff",
+  "background_color": "#fff",
+  "theme_color": "#fbb731",
+  "color": "#fbb731",
   "display": "standalone",
   "related_applications": [{
     "platform": "web",
-    "url": "https://doteightplus.com"
+    "url": "https://dotacademy.com.ng"
   }]
 }
