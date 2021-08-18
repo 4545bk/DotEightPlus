@@ -14,9 +14,10 @@
   "background_color": "#fff",
   "theme_color": "#fbb731",
   "color": "#fbb731",
-  "display": "standalone",
+  "display": "minimal-ui",
   "related_applications": [{
     "platform": "web",
+    "orientation": "portrait",
     "url": "https://dotacademy.com.ng"
   }]
 }
